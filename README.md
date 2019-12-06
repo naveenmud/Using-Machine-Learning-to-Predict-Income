@@ -3,7 +3,7 @@
 
 ### Project Description:
 
-This machine learning project uses United States census data to predict wether a person will earn greater than or less than $50,000 per year. The data set includes 41 different demographic attributes, which our models incorporate in order to predict the income bracket of a given individual. Tableau is also used to create visualizations for data exploration.
+This machine learning project uses United States census data to predict whether a person will earn greater than or less than $50,000 per year. The data set includes 41 different demographic attributes, which our models incorporate in order to predict the income bracket of a given individual. Tableau is also used to create visualizations for data exploration.
 
 
 ## Table of contents
@@ -25,6 +25,7 @@ Project is created with:
 * Python
 * Pandas
 * SciKitLearn
+* MatPlotLib
 * Tableau 10.0
 
 ## Authors
